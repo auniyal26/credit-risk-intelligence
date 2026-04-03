@@ -1,4 +1,3 @@
-````markdown
 # Credit Risk Intelligence
 
 SQL-driven portfolio analysis, exploratory diagnostics, and default-risk modeling on multi-table credit application data.
@@ -195,6 +194,3 @@ Future improvements can focus on:
 * additional history tables
 * cleaner feature selection / calibration
 * portfolio polish
-
-```
-```
